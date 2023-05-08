@@ -1,0 +1,30 @@
+{
+    "name": "prettier-config-deriv",
+    "version": "1.0.3",
+    "description": "Deriv's Prettier config",
+    "main": "index.js",
+    "scripts": {
+        "test": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/shayan-deriv/prettier-config-deriv.git"
+    },
+    "author": "Shayan Khaleghparast",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/shayan-deriv/prettier-config-deriv/issues"
+    },
+    "homepage": "https://github.com/shayan-deriv/prettier-config-deriv#readme",
+    "keywords": [
+        "prettier",
+        "prettierconfig",
+        "deriv"
+    ],
+    "devDependencies": {
+        "prettier": "^2.8.8"
+    },
+    "peerDependencies": {
+        "prettier": "^2.8.8"
+    }
+}
