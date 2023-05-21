@@ -3,7 +3,7 @@ This package provides Deriv's .prettierrc as an extensible shared config.
 
 # installation
 
-###For **deriv-com:**
+### For **deriv-com:**
 
 
  1. remove `"prettier": "^2.5.1"` from package.json in root and also each packages:
@@ -25,7 +25,7 @@ This package provides Deriv's .prettierrc as an extensible shared config.
 
 # Usage
 
-###For **deriv-com:**
+### For **deriv-com:**
 
 
 rename `.prettierrc` to `.prettierrc.js` and import the package inside your config:
@@ -46,12 +46,12 @@ You can override any options in a way that suits your code styles.
 
 Run the bellow command to test it:
 
-    npm run stylelint
+    npm run format
 
 **note  that** since we renamed our config file you need to modify prettier command in package.json as well.
 
 
-###For **deriv-app:**
+### For **deriv-app:**
 
 rename `.prettierrc` to `.prettierrc.js` and import the package inside your config:
 ```
